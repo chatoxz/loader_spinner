@@ -3,7 +3,7 @@
     --blue: #3498db;
     --red: red;
     --green: green;
-    --black: black;
+    --black: #000000;
     --grey: grey;
 }
 
@@ -41,7 +41,7 @@
     height: 80px;
 }
 
-sp_regular{
+.sp_regular{
     min-height: 80px;
     border: 16px solid var(--white);
     width: 50px;
@@ -50,8 +50,7 @@ sp_regular{
 
 .sp_small{
     min-height: 40px;
-    border: 10px solid var(--white);
-    border-top: 10px solid var(--blue);
+    border-width: 10px !important;
     width: 30px;
     height: 30px;
 }
