@@ -25,6 +25,7 @@
     /*clear: both;*/
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
+    box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
 .sp_bigger {

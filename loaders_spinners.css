@@ -27,7 +27,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_negro_muy_grande{
     margin: 5vh auto;
@@ -37,7 +38,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_gris_muy_grande{
     margin: 5vh auto;
@@ -47,7 +49,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_azul_muy_grande{
     margin: 5vh auto;
@@ -57,7 +60,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_rojo_muy_grande{
     margin: 5vh auto;
@@ -67,7 +71,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_verde_muy_grande{
     margin: 5vh auto;
@@ -77,7 +82,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+      box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_tricolor_muy_grande{
     margin: 5vh auto;
@@ -89,7 +95,8 @@
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
 .loader_grande{
@@ -100,7 +107,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_negro_grande{
     margin: 5vh auto;
@@ -110,7 +118,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_gris_grande{
     margin: 5vh auto;
@@ -120,7 +129,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_azul_grande{
     margin: 5vh auto;
@@ -130,7 +140,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_rojo_grande{
     margin: 5vh auto;
@@ -140,7 +151,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_verde_grande{
     margin: 5vh auto;
@@ -150,7 +162,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_tricolor_grande{
     margin: 5vh auto;
@@ -162,7 +175,8 @@
     width: 80px;
     height: 80px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
 .loader{
@@ -173,7 +187,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_negro{
     margin: 5vh auto;
@@ -183,7 +198,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_gris{
     margin: 5vh auto;
@@ -193,7 +209,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_azul{
     margin: 5vh auto;
@@ -203,7 +220,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_rojo{
     margin: 5vh auto;
@@ -213,7 +231,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_verde{
     margin: 5vh auto;
@@ -223,7 +242,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_tricolor{
     margin: 5vh auto;
@@ -235,7 +255,8 @@
     width: 50px;
     height: 50px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
 
@@ -247,7 +268,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_negro_chico{
     margin: auto;
@@ -257,7 +279,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_gris_chico{
     margin: auto;
@@ -267,7 +290,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_azul_chico{
     margin: auto;
@@ -277,7 +301,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_rojo_chico{
     margin: auto;
@@ -287,7 +312,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 .loader_verde_chico{
     margin: auto;
@@ -297,7 +323,8 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+      box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
 .loader_tricolor_chico{
@@ -310,6 +337,7 @@
     width: 30px;
     height: 30px;
     -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+     animation: spin 2s linear infinite;
+     box-shadow: 0 0 15px rgba(0,0,0,.20)
 }
 
