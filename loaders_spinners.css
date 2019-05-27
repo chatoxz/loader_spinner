@@ -5,7 +5,7 @@
   --green: green;
   --black: #000000;
   --grey: grey;
-  --box_shadow: --box_shadow;
+  --box_shadow: 0 0 15px rgba(0, 0, 0, 0.36);
 }
 
 @-webkit-keyframes spin {
