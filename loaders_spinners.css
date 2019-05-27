@@ -5,6 +5,7 @@
   --green: green;
   --black: #000000;
   --grey: grey;
+  --box_shadow: --box_shadow;
 }
 
 @-webkit-keyframes spin {
@@ -40,7 +41,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_negro_muy_grande {
   margin: 5vh auto;
@@ -51,7 +52,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_gris_muy_grande {
   margin: 5vh auto;
@@ -62,7 +63,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_azul_muy_grande {
   margin: 5vh auto;
@@ -73,7 +74,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_rojo_muy_grande {
   margin: 5vh auto;
@@ -84,7 +85,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_verde_muy_grande {
   margin: 5vh auto;
@@ -95,7 +96,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_tricolor_muy_grande {
   margin: 5vh auto;
@@ -108,7 +109,7 @@
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 
 .loader_grande {
@@ -120,7 +121,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_negro_grande {
   margin: 5vh auto;
@@ -131,7 +132,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_gris_grande {
   margin: 5vh auto;
@@ -142,7 +143,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_azul_grande {
   margin: 5vh auto;
@@ -153,7 +154,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_rojo_grande {
   margin: 5vh auto;
@@ -164,7 +165,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_verde_grande {
   margin: 5vh auto;
@@ -175,7 +176,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_tricolor_grande {
   margin: 5vh auto;
@@ -188,7 +189,7 @@
   height: 80px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 
 .loader {
@@ -200,7 +201,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_negro {
   margin: 5vh auto;
@@ -211,7 +212,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_gris {
   margin: 5vh auto;
@@ -222,7 +223,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_azul {
   margin: 5vh auto;
@@ -233,7 +234,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_rojo {
   margin: 5vh auto;
@@ -244,7 +245,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_verde {
   margin: 5vh auto;
@@ -255,7 +256,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_tricolor {
   margin: 5vh auto;
@@ -268,7 +269,7 @@
   height: 50px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 
 .loader_chico {
@@ -280,7 +281,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_negro_chico {
   margin: auto;
@@ -291,7 +292,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_gris_chico {
   margin: auto;
@@ -302,7 +303,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_azul_chico {
   margin: auto;
@@ -313,7 +314,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_rojo_chico {
   margin: auto;
@@ -324,7 +325,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 .loader_verde_chico {
   margin: auto;
@@ -335,7 +336,7 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
 
 .loader_tricolor_chico {
@@ -349,5 +350,5 @@
   height: 30px;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.36);
+  box-shadow: var(--box_shadow);
 }
