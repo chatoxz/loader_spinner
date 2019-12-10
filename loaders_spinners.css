@@ -341,7 +341,7 @@
   box-shadow: var(--box_shadow);
 }
 
-.loader_tricolor_chico {
+.loader_tricolor_chico, .loader_tricolor_chico_after::after {
   margin: auto;
   border-radius: 50%;
   border-top: 10px solid var(--blue);
