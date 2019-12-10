@@ -34,7 +34,7 @@
   }
 }
 
-.loader_muy_grande {
+.loader_muy_grande, .loader_muy_grande_after:after {
   margin: var(--margin) !important;
   border: 16px solid var(--white);
   border-radius: 50%;
@@ -67,7 +67,7 @@
   animation: spin 2s linear infinite;
   box-shadow: var(--box_shadow);
 }
-.loader_azul_muy_grande {
+.loader_azul_muy_grande, .loader_azul_muy_grande_after:after {
   margin: var(--margin) !important;
   border: 16px solid var(--white);
   border-radius: 50%;
